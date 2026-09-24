@@ -1,0 +1,7 @@
+λ
+a
+aa
+aab
+abab
+bbb
+aaaaa

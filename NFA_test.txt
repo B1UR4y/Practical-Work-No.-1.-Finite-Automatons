@@ -1,0 +1,9 @@
+λ
+a
+ab
+aba
+abaa
+abab
+ababb
+ababa
+abb
